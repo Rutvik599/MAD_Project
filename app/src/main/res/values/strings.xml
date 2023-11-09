@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MAD_Project</string>
+    <string-array name="dropdown_items">
+        <item>Calculate</item>
+        <item>Search Word</item>
+        <item>Count Word</item>
+    </string-array>
+</resources>
